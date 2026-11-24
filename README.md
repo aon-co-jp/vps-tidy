@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # vps-tidy
 
 VPS(Linux)と手元の PC(Windows)の**無駄なデータ**(古い実行ファイルの控え、古いログ、キャッシュ、cargo のビルドの残りかす、`node_modules` など)を、**固定の規則だけ**で、安全に、定期的に整理する Rust 製のツール。
